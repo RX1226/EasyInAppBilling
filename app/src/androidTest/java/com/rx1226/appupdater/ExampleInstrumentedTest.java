@@ -1,4 +1,4 @@
-package com.rx1226.iabhelper;
+package com.rx1226.appupdater;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

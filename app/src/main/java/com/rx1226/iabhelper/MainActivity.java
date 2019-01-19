@@ -3,13 +3,13 @@ package com.rx1226.iabhelper;
 import android.content.Intent;
 import android.os.Bundle;
 
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
 import com.github.rx1226.iabhelper.EasyIabHelper;
 import com.github.rx1226.iabhelper.google.IabResult;
 import com.github.rx1226.iabhelper.google.Purchase;
 
-import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity implements EasyIabHelper.IabHandler{
     private String iabKey = "yourkey";
