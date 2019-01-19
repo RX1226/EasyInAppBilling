@@ -1,4 +1,4 @@
-<h1 align="center">AppUpdater </h1>
+<h1 align="center">EasyInAppBilling </h1>
 
 <p align="center">
   <a target="_blank" href="https://www.paypal.me/RX1226" title="Donate using PayPal"><img src="https://img.shields.io/badge/paypal-donate-yellow.svg" /></a>
