@@ -4,10 +4,11 @@ apply plugin: 'com.github.dcendents.android-maven'
 group='com.github.RX1226'
 
 android {
-    compileSdkVersion 27
+    compileSdkVersion 28
+    buildToolsVersion "28.0.3"
     defaultConfig {
         minSdkVersion 14
-        targetSdkVersion 27
+        targetSdkVersion 28
         versionCode 1
         versionName "1.0.0"
     }
@@ -26,5 +27,5 @@ android {
 
 dependencies {
     api fileTree(dir: 'libs', include: ['*.jar'])
-    api 'com.android.support:appcompat-v7:27.1.1'
+    api 'com.android.support:appcompat-v7:28.0.0'
 }
