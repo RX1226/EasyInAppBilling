@@ -18,7 +18,7 @@
 2. Add the dependency:
 ```
     dependencies {
-        implementation 'com.github.RX1226:EasyInAppBilling:1.0.0'
+        implementation 'com.github.RX1226:EasyInAppBilling:1.0.2'
     }
 ```
 
